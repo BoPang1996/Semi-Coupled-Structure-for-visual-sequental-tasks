@@ -88,18 +88,18 @@
 
    3. After get the main window :
 
-      ![1570264032384](imgs\1570264032384.png)
+      ![1570264032384](imgs/1570264032384.png)
 
       1. Click "Select Image":
 
-         ![1570264153936](imgs\1570264153936.png)
+         ![1570264153936](imgs/1570264153936.png)
 
       2. Click "Choose Object" and drag out a bbox for the target
 
-         ![1570264192044](imgs\1570264192044.png)
+         ![1570264192044](imgs/1570264192044.png)
 
       3. Click "Annotate" and wait for a moment （5s on i7 CPU）:
 
-         ![1570264415370](imgs\1570264415370.png)
+         ![1570264415370](imgs/1570264415370.png)
 
          (Because we automatically assign the left-bottom corner as the start point, the result may be not so good in some specific scenes.)
